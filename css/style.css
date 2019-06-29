@@ -50,7 +50,7 @@ button:active, button:focus {
     text-decoration: none;
 }
 *::-moz-selection{
-    background-color: #f0e10f;
+    background-color: #46cff1;
     color: #fff;
 }
 ::selection{
@@ -99,7 +99,7 @@ h1,h2,h3,h4,h5,h6{
     color: rgba(255, 255, 255, 0.7);
 }
 .tv-projects-filter a::before, .navbar-nav > li > a::before, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover, .tv-slider .owl-nav i:hover, .tv-innerpage-title::before, .tv-cta, .tv-popular-tags-content a, .tv-highlight-text > span::before, .tv-project-name::after, .back-to-top, .tv-service-text h4::before, .tv-single-blog h3::before, .tv-member-content .tv-member-info, .tv-post-date, .tv-contact-icon::after, .tv-footer-content{
-    background-color: #f1d846;
+    background-color: #46cff1;
 }
 .navbar-default, .tv-step-content:hover .tv-stepshover-info, .tv-member-sociallinks i, .tv-address-content, .tv-website-socialicon a:hover, .tv-footer-copyright, .tv-cta-divider::before{
     background-color: #000;
@@ -117,7 +117,7 @@ h1,h2,h3,h4,h5,h6{
     color: #fff;
 }
 .tv-highlight-text > span, #accordion .panel-heading:hover h4, .tv-projects-filter a:hover, .tv-counter-value > span, .tv-copyright a, .tv-contact-info a:hover, .breadcrumb > li + li::before, .breadcrumb > .active, .tv-blog-sharelinks a:hover, .media-heading small i, .tv-author-sociallinks a:hover, .tv-porject-cat{
-    color: #f1d846
+    color: #46cff1
 }
 .tv-section{
     padding: 100px 0 0;
@@ -198,7 +198,7 @@ h1,h2,h3,h4,h5,h6{
     z-index: 2;
 }
 input.tv-search-field{
-    border: 1px solid #f1d846;
+    border: 1px solid #46cff1;
     height: 50px;
     line-height: normal;
     padding: 0 12px;
@@ -371,7 +371,7 @@ input.tv-search-field{
     width: 45px;
 }
 .btn, .btn2 {
-    background: #f1d846;
+    background: #46cff1;
     border: medium none;
     border-radius: 0px;
     color: #000;
@@ -387,7 +387,7 @@ input.tv-search-field{
     color:#fff;
 }
 .btn:hover, .btn:focus, .btn:active{
-    background: #ffc527 !important;
+    background: #46cff1 !important;
     border: medium none !important;
     color: #fff !important;
     outline: medium none !important;
@@ -399,7 +399,7 @@ input.tv-search-field{
     outline: medium none !important;
 }
 .btn .tv-mask, .btn2 .tv-mask{
-    background: #ffc527;
+    background: #46cff1;
     border-radius: 0px;
     display: block;
     height: 100%;
@@ -430,7 +430,7 @@ input.tv-search-field{
     text-transform: capitalize;
 }
 .tv-section-heading h2::before, .tv-innerpage-title::before {
-    border: 2px solid #ffc527;
+    border: 2px solid #46cff1;
     content: "";
     display: block;
     height: 60px;
