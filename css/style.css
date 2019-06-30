@@ -60,7 +60,7 @@ button:active, button:focus {
 /* BODY BACKGROUND */
 body{
     margin: 0;
-    color: rgb(255, 255, 255);
+    color: rgb(250, 244, 244);
     font-family: 'overpassregular';
     background-color:  rgb(22, 22, 20); 
     letter-spacing: 1px;
@@ -116,7 +116,7 @@ h1,h2,h3,h4,h5,h6{
     color: #fff;
 }
 .tv-slider-para, .tv-slider-item, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .tv-slider .owl-nav i, .tv-slider-item, .tv-copyright, .tv-copyright a:hover, .tv-step-content .tv-stepshover-info, .tv-project-name, .tv-post-date, .tv-banner-text, .tv-contact-info p, .tv-website-socialicon a:hover, .tv-cta-content h5, .tv-contact-icon i{
-    color: #fff;
+    color: #101111;
 }
 .tv-highlight-text > span, #accordion .panel-heading:hover h4, .tv-projects-filter a:hover, .tv-counter-value > span, .tv-copyright a, .tv-contact-info a:hover, .breadcrumb > li + li::before, .breadcrumb > .active, .tv-blog-sharelinks a:hover, .media-heading small i, .tv-author-sociallinks a:hover, .tv-porject-cat{
     color: #46cff1
@@ -376,7 +376,7 @@ input.tv-search-field{
     background: #46cff1;
     border: medium none;
     border-radius: 0px;
-    color: #000;
+    color: #fff;
     font-weight: 500;
     outline: medium none;
     overflow: hidden;
