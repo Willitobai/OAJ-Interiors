@@ -104,7 +104,7 @@ h1,h2,h3,h4,h5,h6{
 }
 /* NAVBAR BACKGROUND */
 .navbar-default, .tv-step-content:hover .tv-stepshover-info, .tv-member-sociallinks i, .tv-address-content, .tv-website-socialicon a:hover, .tv-footer-copyright, .tv-cta-divider::before{
-    background-color: rgb(211, 205, 205);
+    background-color: rgb(228, 222, 222);
 }
 .tv-search-form::before, .input.tv-search-field, .btn2 .tv-mask, .tv-step-content .tv-stepshover-info, .tv-member-sociallinks a:hover i, .tv-website-socialicon a, .tv-subscribe-form form .btn{
     background: #fff;
