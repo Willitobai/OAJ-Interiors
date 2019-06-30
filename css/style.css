@@ -97,7 +97,7 @@ h1,h2,h3,h4,h5,h6{
     color: #fff;
 }
 .navbar-default .navbar-nav > li > a {
-    color: rgba(179, 3, 3, 0.7);
+    color: rgba(3, 3, 3, 0.7);
 }
 .tv-projects-filter a::before, .navbar-nav > li > a::before, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover, .tv-slider .owl-nav i:hover, .tv-innerpage-title::before, .tv-cta, .tv-popular-tags-content a, .tv-highlight-text > span::before, .tv-project-name::after, .back-to-top, .tv-service-text h4::before, .tv-single-blog h3::before, .tv-member-content .tv-member-info, .tv-post-date, .tv-contact-icon::after, .tv-footer-content{
     background-color: #46cff1;
