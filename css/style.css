@@ -60,7 +60,7 @@ button:active, button:focus {
 /* BODY BACKGROUND */
 body{
     margin: 0;
-    color: rgb(248, 245, 242);
+    color: rgb(255, 255, 255);
     font-family: 'overpassregular';
     background-color:  rgb(22, 22, 20); 
     letter-spacing: 1px;
@@ -94,10 +94,10 @@ h1,h2,h3,h4,h5,h6{
     color: #fff;
 }
 .tv-service-text > p, .tv-member-name p, .tv-blog-desc p, .media-body p{
-    color: #444;
+    color: #fff;
 }
 .navbar-default .navbar-nav > li > a {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(179, 3, 3, 0.7);
 }
 .tv-projects-filter a::before, .navbar-nav > li > a::before, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover, .tv-slider .owl-nav i:hover, .tv-innerpage-title::before, .tv-cta, .tv-popular-tags-content a, .tv-highlight-text > span::before, .tv-project-name::after, .back-to-top, .tv-service-text h4::before, .tv-single-blog h3::before, .tv-member-content .tv-member-info, .tv-post-date, .tv-contact-icon::after, .tv-footer-content{
     background-color: #46cff1;
@@ -391,7 +391,7 @@ input.tv-search-field{
 .btn:hover, .btn:focus, .btn:active{
     background: #46cff1 !important;
     border: medium none !important;
-    color: #fff !important;
+    color: rgb(14, 12, 12) !important;
     outline: medium none !important;
 }
 .btn2:hover, .btn2:focus, .btn2:active{
