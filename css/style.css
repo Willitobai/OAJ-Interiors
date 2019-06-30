@@ -38,7 +38,7 @@ ul li{list-style-type: none}
     border-color: none;
     box-shadow: none !important;
     outline: 0 none;
-    border-color: #000 !important;
+    border-color:  rgb(202, 138, 18); !important;
 }
 button, input, optgroup, select, textarea{
     color: inherit;
@@ -57,11 +57,12 @@ button:active, button:focus {
     background-color: #1348aa;
     color: #fff;
 }
+/* BODY BACKGROUND */
 body{
     margin: 0;
-    color: #000;
+    color: rgb(248, 245, 242);
     font-family: 'overpassregular';
-    background-color: #fff;
+    background-color:  rgb(22, 22, 20); 
     letter-spacing: 1px;
 }
 h1,h2,h3,h4,h5,h6{
@@ -90,7 +91,7 @@ h1,h2,h3,h4,h5,h6{
     text-align: right;
 }
 .tv-feature-text, .tv-section-para{
-    color: #777;
+    color: #fff;
 }
 .tv-service-text > p, .tv-member-name p, .tv-blog-desc p, .media-body p{
     color: #444;
@@ -101,14 +102,15 @@ h1,h2,h3,h4,h5,h6{
 .tv-projects-filter a::before, .navbar-nav > li > a::before, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover, .tv-slider .owl-nav i:hover, .tv-innerpage-title::before, .tv-cta, .tv-popular-tags-content a, .tv-highlight-text > span::before, .tv-project-name::after, .back-to-top, .tv-service-text h4::before, .tv-single-blog h3::before, .tv-member-content .tv-member-info, .tv-post-date, .tv-contact-icon::after, .tv-footer-content{
     background-color: #46cff1;
 }
+/* NAVBAR BACKGROUND */
 .navbar-default, .tv-step-content:hover .tv-stepshover-info, .tv-member-sociallinks i, .tv-address-content, .tv-website-socialicon a:hover, .tv-footer-copyright, .tv-cta-divider::before{
-    background-color: #000;
+    background-color: rgb(211, 205, 205);
 }
 .tv-search-form::before, .input.tv-search-field, .btn2 .tv-mask, .tv-step-content .tv-stepshover-info, .tv-member-sociallinks a:hover i, .tv-website-socialicon a, .tv-subscribe-form form .btn{
     background: #fff;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover, .tv-slider .owl-nav i:hover, .tv-website-socialicon a, .tv-subscribe-form form .form-control, .tv-subscribe-form form .btn{
-    color: #000;
+    color: #fff;
 }
 .tv-subscribe-form .form-control::-moz-placeholder{
     color: #fff;
@@ -171,7 +173,7 @@ h1,h2,h3,h4,h5,h6{
     position: relative;
 }
 .tv-search-form::before {
-    color: #111;
+    color:  rgb(202, 138, 18);;
     content: "\f002";
     font-family: "FontAwesome";
     font-size: 14px;
@@ -641,7 +643,7 @@ input.tv-search-field{
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(0,0,0,0.9);
+    background-color: rgba(243, 240, 235, 0.9);
     overflow: hidden;
     width: 0;
     height: 100%;
