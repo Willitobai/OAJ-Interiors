@@ -38,7 +38,7 @@ ul li{list-style-type: none}
     border-color: none;
     box-shadow: none !important;
     outline: 0 none;
-    border-color:  rgb(202, 138, 18); !important;
+    border-color:  rgb(202, 138, 18);!important;
 }
 button, input, optgroup, select, textarea{
     color: inherit;
@@ -60,7 +60,7 @@ button:active, button:focus {
 /* BODY BACKGROUND */
 body{
     margin: 0;
-    color: rgb(250, 244, 244);
+    color: rgb(161, 5, 5);
     font-family: 'overpassregular';
     background-color:  rgb(22, 22, 20); 
     letter-spacing: 1px;
@@ -643,7 +643,7 @@ input.tv-search-field{
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(243, 240, 235, 0.9);
+    background-color: rgba(170, 117, 26, 0.9);
     overflow: hidden;
     width: 0;
     height: 100%;
