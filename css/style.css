@@ -500,7 +500,7 @@ input.tv-search-field{
 /*=====================================================steps===================================================================*/
 
 .tv-process-steps > li + li .tv-step-content{
-    border-left: 2px solid #0d9235;
+    border-left: 2px solid #f0f0f0;
     margin-left: -1px;
 }
 .tv-step-content {
