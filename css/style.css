@@ -60,7 +60,7 @@ button:active, button:focus {
 /* BODY BACKGROUND */
 body{
     margin: 0;
-    color: rgb(161, 5, 5);
+    color: rgb(228, 150, 5);
     font-family: 'overpassregular';
     background-color:  rgb(22, 22, 20); 
     letter-spacing: 1px;
@@ -116,7 +116,7 @@ h1,h2,h3,h4,h5,h6{
     color: #fff;
 }
 .tv-slider-para, .tv-slider-item, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .tv-slider .owl-nav i, .tv-slider-item, .tv-copyright, .tv-copyright a:hover, .tv-step-content .tv-stepshover-info, .tv-project-name, .tv-post-date, .tv-banner-text, .tv-contact-info p, .tv-website-socialicon a:hover, .tv-cta-content h5, .tv-contact-icon i{
-    color: #101111;
+    color: #fff;
     background:none;
 }
 .tv-highlight-text > span, #accordion .panel-heading:hover h4, .tv-projects-filter a:hover, .tv-counter-value > span, .tv-copyright a, .tv-contact-info a:hover, .breadcrumb > li + li::before, .breadcrumb > .active, .tv-blog-sharelinks a:hover, .media-heading small i, .tv-author-sociallinks a:hover, .tv-porject-cat{
@@ -475,9 +475,10 @@ input.tv-search-field{
     margin-bottom: 0;
     font-size: 16px;
 }
+/*==========caja==========*/
 #accordion .panel-default > .panel-heading{
-    background-color: transparent;
-    border-bottom: 2px solid #000;
+    background-color: grey;
+    border-bottom: 2px solid black;
     padding: 20px 0;
 }
 #accordion .panel-group .panel {
@@ -491,7 +492,7 @@ input.tv-search-field{
     border: medium none;
 }
 #accordion .panel-body {
-    border-bottom: 2px solid #000;
+    border-bottom: 2px solid grey;
 }
 #accordion h4 i {
     width: 25px;
@@ -849,7 +850,7 @@ input.tv-search-field{
     margin-top: 10px;
 }
 .tv-brand-image::after {
-    background-color: #e5e5e5;
+    background-color: #444;
     content: "";
     height: 30px;
     position: absolute;
