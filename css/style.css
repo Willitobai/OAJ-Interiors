@@ -645,7 +645,8 @@ input.tv-search-field{
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(0,0,0,0,.9);
+    background-color: #000;
+    opacity: 10%;
     overflow: hidden;
     width: 0;
     height: 100%;
@@ -937,7 +938,7 @@ input.tv-search-field{
 }
 .tv-subscribe-form form .form-control {
     background-color: transparent;
-    border: 2px solid #fff;
+    border: 2px solid #000;
     border-radius: 0;
     font-size: 12px;
     font-style: italic;
